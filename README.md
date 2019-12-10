@@ -1,17 +1,16 @@
 # The Useless Web
-Take me to another useless website please. The useless web is a single button, which opens new links to an array of strange and odd websites. Its live [here](http://www.theuselessweb.com).
+Useless Websites
 
-### Contributions
-Feel free to open a pull request adding your website or removing something thats down.
+There are countless sites on the web that seem to have absolutely no interest or useful capacity - they are useless sites. But what about sites? Nevertheless, we visit these sites, even if they are totally useless, crazy or strange. 
 
-Sadly, I'm not really too active on this any more, and feel that the useless web has a great balance of sites already. Over the past couple of years a lot of sites have come and gone, some couldn't handle the server load, and were excluded (since it dilutes the overall experience).
+Start your journey on the Useless Websites network index by the most useless sites in the world and let yourself be impressed by the uselessness of the Web. Click on the links and let us guide you. 
 
-I'm also not including websites that have advertising, or any real ulterior motives outside of being totally useless.
+Enjoy the most useless and useless websites on the Internet & Upvote your favorites! 
 
 ### Screenshot.
-![Nothing Special, but here it is.](http://i.imgur.com/k0yMsQ6.png "Home")
+![Nothing Special, but here it is.](http://i.imgur.com/IQTRPC8l.png "Home")
 
 ### License
 The Useless Web is covered by the MIT License.
 
-Copyright (C) 2015 ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
+Copyright (C) 2018 ~ https://uselesswebsites.net
