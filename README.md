@@ -13,4 +13,4 @@ Enjoy the most useless and useless websites on the Internet & Upvote your favori
 ### License
 The Useless Web is covered by the MIT License.
 
-Copyright (C) 2018 ~ https://uselesswebsites.net
+Copyright (C) 2018 ~ www.uselessweb.site
